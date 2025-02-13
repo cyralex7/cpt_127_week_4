@@ -8,7 +8,7 @@ Please find the error and fix it!
 
 You will know the problem is solved when you get an output of:
 
-The average grade for the class is: 85.75
+The average grade for the class is: 84.75
 
 '''
 
